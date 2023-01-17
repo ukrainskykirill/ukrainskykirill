@@ -1,4 +1,12 @@
-### Hi there 👋
+# Hi there 🦄 #
+- Some emojis about me: 🌮🧙🖖🏕🏀🥑⚖️🍿🧟‍♂️🌍🍲
+- 👨‍💻 My stack: Django, DRF, FastAPI, AsyncIO, PostgreSQL, SQLAlchemy, Redis, Celery, Docker, HTML
+- ✈️ My tg: @ukrainsky
+- 📮 Mail: ukrainsky.kirill@gmail.com
+- 👇 Bellow you can find my projects. There're Django pet-projects and also async projects from Yandex Praktikum async programm. 
+
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=ukrainskykirill)](https://github.com/ukrainskykirill)
+
 
 <!--
 **ukrainskykirill/ukrainskykirill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
